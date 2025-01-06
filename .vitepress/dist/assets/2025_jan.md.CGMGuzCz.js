@@ -1,0 +1,1 @@
+import{_ as t,c as a,j as n,o as r}from"./chunks/framework.D5XSuxOt.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"2025/jan.md","filePath":"2025/jan.md"}'),s={name:"2025/jan.md"};function o(c,e,p,d,l,i){return r(),a("div",null,e[0]||(e[0]=[n("p",null,"smth",-1)]))}const f=t(s,[["render",o]]);export{_ as __pageData,f as default};

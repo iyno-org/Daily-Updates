@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.D5XSuxOt.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"2025/march.md","filePath":"2025/march.md"}'),r={name:"2025/march.md"};function c(o,s,n,m,p,_){return a(),t("div")}const f=e(r,[["render",c]]);export{i as __pageData,f as default};
